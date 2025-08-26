@@ -1,4 +1,4 @@
 # demographic-clustering.
-Used the K-Nearest Neighbors (KNN) algorithm to make predictions
+Used the K-Means algorithm to make predictions
 
-Problem statement is given in the jupyter notebook
+The problem statement is given in the Jupyter notebook
